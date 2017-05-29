@@ -1,6 +1,6 @@
 library(dplyr)
 
-setwd("/Users/pherreraariza/Documents/Coursera/3_Getting_and_Cleaning_Data/W4Assignment/")
+setwd("/Users/pherreraariza/Documents/Coursera/3_Getting_and_Cleaning_Data/3GCD_W4Assignment/")
 
 
 ## Download the file and put the file in the data folder
